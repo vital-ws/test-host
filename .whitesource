@@ -1,3 +1,15 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
+  
+    "hostRules": [
+    {
+      "matchHost": "https://pkgs.dev.azure.com/mend-demo-for-azure/development/_packaging/feed-test/npm/registry/",
+      "hostType": "npm",
+      "userName": "mend-demo-for-azure",
+      "encrypted":
+      {
+       "password": "wcBMA8xOaBJvzJNbAQf8CBCHOSsPKMCd7tGSAgDlML7sD3w2O4qcjpiSQwfevZoLcWqx/Jj+LOiDb8WwVfEPQgaODlGXScST+iipEDFx+c4C3IE1t1h87ySkckjhowpnsV+aSYft74Unt5EOW76wJB8j87TFzDTqSvs4kvTAHg6PrzohafLoVEus4Lp2EEWq5nLpYZMof0Y7eiUdr6utpKovECdj+Thj4RJ3h3lGLgqv/CCCy/+nEHAZUvYKL1JcytWu3GHgVKtCI/qLNXj93nVflwWgmE6yauOTwBSuzeJuVNKERCLgxpBYkSAGSKH/9OU3oMJdcXQqx8Bb5Quz7kYHG1fSRBoi51bcw5ED0tKiAbOwSFIVBFJHlzNVamF84b2Ti7Q803HzpDJLfiBYS+Uz6RTX9sI5Okg1fnaN6YaFCjKkiyeHK2kYjdfGPTBCS+4ouWw2jXjJPt0hY4vuFUh+hrbYtzafbR0GnJTPqIgTAAlyqMY7PM01l27ttTRw7MHtwXiNW+0DR3iWYgPTULxSf97FLtylvvI9ebwQZnMUO/WnHQyzh2oKR8ZNgz4414x/"
+      }
+    }
+  ]
 }
