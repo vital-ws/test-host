@@ -1,0 +1,9 @@
+{
+  "name": "host-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash-vital": "5.0.0"
+    
+  }
+}
