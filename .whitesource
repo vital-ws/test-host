@@ -1,6 +1,7 @@
 {
   "settingsInheritedFrom": "vital-ws/whitesource-config@main",
   
+  
     "hostRules": [
     {
       "matchHost": "https://pkgs.dev.azure.com/mend-demo-for-azure/development/_packaging/feed-test/npm/registry/",
